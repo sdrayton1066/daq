@@ -10,6 +10,8 @@ update them in the future).
 
 <code>$ <b>bin/clean_dev</b></code> # Clean up any previous development installs.
 
+<code>$ <b>bin/setup_base</b></code> # Installs a minimum set of basic packages, including docker and Open vSwitch
+
 <code>$ <b>bin/setup_dev</b></code> # Setup of basic dev environment dependencies.
 
 <code>$ <b>cmd/build</b></code> # Build internal docker images.
